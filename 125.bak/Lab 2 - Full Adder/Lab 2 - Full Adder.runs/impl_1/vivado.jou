@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Sep 12 21:22:01 2024
+# Process ID: 46238
+# Current directory: /home/alazca/Development/125/Lab 2 - Full Adder/Lab 2 - Full Adder.runs/impl_1
+# Command line: vivado -log two_BitAdder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source two_BitAdder.tcl -notrace
+# Log file: /home/alazca/Development/125/Lab 2 - Full Adder/Lab 2 - Full Adder.runs/impl_1/two_BitAdder.vdi
+# Journal file: /home/alazca/Development/125/Lab 2 - Full Adder/Lab 2 - Full Adder.runs/impl_1/vivado.jou
+# Running On        :LEGION-ARCH
+# Platform          :EndeavourOS
+# Operating System  :EndeavourOS Linux
+# Processor Detail  :13th Gen Intel(R) Core(TM) i9-13900HX
+# CPU Frequency     :1084.523 MHz
+# CPU Physical cores:24
+# CPU Logical cores :32
+# Host memory       :33376 MB
+# Swap memory       :0 MB
+# Total Virtual     :33376 MB
+# Available Virtual :23096 MB
+#-----------------------------------------------------------
+source two_BitAdder.tcl -notrace

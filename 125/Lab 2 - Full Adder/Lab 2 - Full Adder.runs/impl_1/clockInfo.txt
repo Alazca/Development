@@ -1,0 +1,10 @@
+-------------------------------------
+| Tool Version : Vivado v.2024.1
+| Date         : Thu Sep 12 21:22:27 2024
+| Host         : LEGION-ARCH
+| Design       : checkpoint_two_BitAdder
+| Device       : xc7k70t-fbv676-1--
+-------------------------------------
+
+For more information on clockInfo.txt clock routing debug file see https://support.xilinx.com/s/article/000035660?language=en_US
+

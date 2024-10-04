@@ -1,0 +1,11 @@
+Project Abstract 1:
+
+This project aims to develop a high-frequency trading (HFT) algorithm that can exploit market inefficiencies by analyzing large volumes of real-time financial data. The algorithm will focus on identifying price patterns and arbitrage opportunities across different markets or assets. By utilizing historical data and statistical models, the algorithm will predict short-term price movements and execute trades with minimal latency.
+
+One of the challenges in this domain is the need for ultra-low-latency systems to capitalize on fleeting opportunities. The algorithm will need to process incoming data, make decisions, and execute trades within milliseconds. Another problem involves minimizing slippage and managing risks in volatile markets, where price swings can cause significant losses. The project will explore various strategies like mean reversion, momentum trading, and arbitrage, and apply machine learning techniques to enhance the predictive accuracy of the algorithm.
+
+Project Abstract 2:
+
+The project I envision revolves around developing a robust autonomous navigation algorithm for differential drive robots. The problem is focused on improving the robot's ability to navigate dynamic environments, where obstacles can move unpredictably, and the robot needs to adapt its path in real-time. The goal is to design an algorithm that not only controls the robot's trajectory but also dynamically recalculates the path using sensor feedback (such as 2D range sensors and wheel encoders). This algorithm would continuously update the robot’s position (x, y, θ) and use this data to avoid collisions and optimize the travel path for efficiency.
+
+One of the primary challenges is the fusion of data from multiple sensors, which can introduce noise and discrepancies. The algorithm will need to account for these uncertainties while maintaining accurate localization. Additionally, the problem includes optimizing battery usage and motor control to ensure that the robot navigates not only safely but also efficiently within the constraints of limited power and processing resources.

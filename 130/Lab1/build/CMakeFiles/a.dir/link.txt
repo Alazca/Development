@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/a.dir/display.cpp.o CMakeFiles/a.dir/main.cpp.o CMakeFiles/a.dir/student.cpp.o CMakeFiles/a.dir/studentarray.cpp.o -o a

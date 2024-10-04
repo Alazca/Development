@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2024
+18:54:44
+/home/alazca/Development/125/Lab1-Software Download/Lab1-Software Download.sim/sim_1/behav/xsim/glbl.v,1708598506,verilog,,,,glbl,,,,,,,,
+/home/alazca/Development/125/Lab1-Software Download/Lab1-Software Download.srcs/sim_1/new/xor_gatetb.v,1726099310,verilog,,,,xor_gatetb,,,,,,,,
+/home/alazca/Development/125/Lab1-Software Download/Lab1-Software Download.srcs/sources_1/new/xor_gate.v,1725519594,verilog,,/home/alazca/Development/125/Lab1-Software Download/Lab1-Software Download.srcs/sim_1/new/xor_gatetb.v,,xor_gate;xor_gate_bm,,,,,,,,

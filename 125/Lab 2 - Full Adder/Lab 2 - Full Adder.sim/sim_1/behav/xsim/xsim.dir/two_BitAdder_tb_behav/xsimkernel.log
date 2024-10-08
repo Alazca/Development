@@ -1,7 +1,0 @@
-Running: xsim.dir/two_BitAdder_tb_behav/xsimk -simmode gui -wdb two_BitAdder_tb_behav.wdb -simrunnum 0 -socket 58035
-Design successfully loaded
-Design Loading Memory Usage: 20028 KB (Peak: 20620 KB)
-Design Loading CPU Usage: 10 ms
-Simulation completed
-Simulation Memory Usage: 101764 KB (Peak: 159296 KB)
-Simulation CPU Usage: 150 ms

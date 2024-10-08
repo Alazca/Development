@@ -37,8 +37,8 @@ void StudentList::maxHeapify(int x) {
 }
 
 void StudentList::buildMaxHeap() {
-  int i = (minIndex / 2) - 1; // Initialize i correctly
-  for (; i >= 0; i--) {       // Fix the loop declaration
+  int i = (minIndex / 2) - 1;
+  for (; i >= 0; i--) {
     maxHeapify(i);
   }
 }
